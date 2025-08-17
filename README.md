@@ -45,5 +45,5 @@ Sau đó nhập IP và Port (mặc định là 8080) của máy server để k�
 
 ## Thông tin Nhóm
 *   Huỳnh Thái Hoàng - 24127171
-*   Nguyễn Sơn Hải - 24127163
 *   Tôn Thất Nhật Minh - 24127083
+*   Nguyễn Sơn Hải - 24127163
