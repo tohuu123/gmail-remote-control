@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+opencv/
+email_reader_client/ui/build/
+email_reader_client/ui/.cmake/
+email_reader_client/ui/CMakeFiles/
+email_reader_client/ui/QT_TEST_autogen/
+server_app/build/
+files/receive/*
+keylogger.txt
+
+# ignore token files
+token.json

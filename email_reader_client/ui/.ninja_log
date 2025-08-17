@@ -1,0 +1,11 @@
+# ninja log v5
+29	2418	7762393561869620	QT_TEST_autogen/timestamp	91465766fdf3d714
+29	2418	7762393561869620	QT_TEST_autogen/mocs_compilation.cpp	91465766fdf3d714
+2423	6689	7762393604958819	CMakeFiles/QT_TEST.dir/main.cpp.obj	7dc16f7340e39740
+29	2418	7762393561869620	D:/HCMUS/Semester_3/MMT/Project_MMT/ComputerNetworkProject/email_reader_client/ui/QT_TEST_autogen/timestamp	91465766fdf3d714
+29	2418	7762393561869620	D:/HCMUS/Semester_3/MMT/Project_MMT/ComputerNetworkProject/email_reader_client/ui/QT_TEST_autogen/mocs_compilation.cpp	91465766fdf3d714
+2419	6706	7762393605131886	CMakeFiles/QT_TEST.dir/QT_TEST_autogen/mocs_compilation.cpp.obj	38f1837fe3d9bddd
+2426	7325	7762393611312180	CMakeFiles/QT_TEST.dir/myclass.cpp.obj	214d2a99c957e5e3
+7325	7493	7762393612945464	QT_TEST.exe	ee0d8a3747c973c1
+19	2092	7762399138577826	build.ninja	487e0226d02c249c
+2430	4986	7762393587924606	CMakeFiles/QT_TEST.dir/D_/HCMUS/Semester_3/MMT/Project_MMT/ComputerNetworkProject/email_reader_client/client.cpp.obj	e881378e8747e087
